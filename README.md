@@ -1,5 +1,5 @@
 # Rotaeno
-Calculation for the stuff of Perfect+, Perfect and score in Rotaeno
+Calculation for the stuff of Perfect+, Perfect and score in Rotaeno  
 用来计算Rotaeno当中一些关于大p,小p和分数的问题
 
 ## Program 1: Calculation
